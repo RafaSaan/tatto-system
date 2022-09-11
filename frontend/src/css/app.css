@@ -1,0 +1,33 @@
+/* app global css */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.bg{
+    background: #F5F6FA;
+}
+.purple800{
+    background: #742BDE;
+}
+.purple700{
+    background: #8A39FF;
+}
+.purple600{
+    background: #964EFF;
+}
+.purple500{
+    background: #A364FF;
+}
+.purple400{
+    background: #B481FF;
+}
+.purple300{
+    background: #C6A1FD;
+}
+.purple200{
+    background: #DBC7FA;
+}
+.purple100{
+    background: #EAE2F6;
+}
+
